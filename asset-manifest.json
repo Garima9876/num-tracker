@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/num-tracker/static/css/main.401c83ff.css",
+    "main.js": "/num-tracker/static/js/main.5d53dbe3.js",
+    "index.html": "/num-tracker/index.html",
+    "main.401c83ff.css.map": "/num-tracker/static/css/main.401c83ff.css.map",
+    "main.5d53dbe3.js.map": "/num-tracker/static/js/main.5d53dbe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.401c83ff.css",
+    "static/js/main.5d53dbe3.js"
+  ]
+}
